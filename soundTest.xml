@@ -1,0 +1,14 @@
+<sounds>
+	<soundType name="jump">
+		<sound>PlayerJump1</sound>
+		<sound>PlayerJump2</sound>
+	</soundType>
+	<soundType name="attack">
+		<sound>PlayerAttack1</sound>
+		<sound>PlayerAttack2</sound>
+		<sound>PlayerAttack3</sound>
+	</soundType>
+	<soundType name="death">
+		<sound>PlayerDeath</sound>
+	</soundType>
+</sounds>
