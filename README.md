@@ -16,6 +16,6 @@ Usage:
 2. Call the method "MakeSound(string sound)". The string "sound" must be define inside the XML, as a "name" attribute of the "soundType" tag.
 3. Your buddy "MakeSound" will choose a random sound for you from the specified in the XML, and play it! :D
 
-EXTRA: Create an string enum to hide the concrete strings!
+EXTRA: Create an string enum to hide the specific strings!
 
 Developed in 2016 for Gato Studio Videogame Development Course
