@@ -1,6 +1,6 @@
 # UnitySoundController
 
-A simple wrapper that simplifies sound effects managing in Unity 3D.
+A wrapper that simplifies sound effects managing in Unity 3D.
 
 Configuration:
 
@@ -17,3 +17,5 @@ Usage:
 3. Your buddy "MakeSound" will choose a random sound for you from the specified in the XML, and play it! :D
 
 EXTRA: Create an string enum to hide the concrete strings!
+
+Developed in 2016 for Gato Studio Videogame Development Course
